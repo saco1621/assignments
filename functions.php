@@ -1,3 +1,3 @@
 <?php
-echo 'Speech is silver.';
+echo 'Speech is Silver.';
 ?>	
